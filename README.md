@@ -36,8 +36,8 @@ Users should be able to:
 
 ### Links
 
-- [Solution](https://your-solution-url.com)
-- [Live Site](https://your-live-site-url.com)
+- [Solution](https://www.frontendmentor.io/solutions/animated-four-card-feature-section-using-css-grid-XZl0U6ockp)
+- [Live Site](https://alberto-rj.github.io/four-card-feature-section/)
 
 ## My process
 
