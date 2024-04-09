@@ -112,5 +112,6 @@ const updateAnimation = device => {
 
 const setAnimation = () => updateAnimation(getDevice());
 
-window.addEventListener('load', setAnimation);
 window.addEventListener('resize', setAnimation);
+
+setAnimation();
